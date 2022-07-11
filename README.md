@@ -1,2 +1,2 @@
-# le-mot-de-passe
+# le-mot-de-passe 🔒 🔑
 Tools for help with passwords
